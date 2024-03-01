@@ -1,0 +1,120 @@
+{
+  "fragment": true,
+  "hits": [
+    {
+      "fields": {},
+      "fragment": false,
+      "highlightFields": {},
+      "id": "3",
+      "matchedQueries": [],
+      "primaryTerm": 0,
+      "rawSortValues": [],
+      "score": 1.0,
+      "seqNo": -2,
+      "sortValues": [],
+      "sourceAsMap": {
+        "name": "zhangsan",
+        "age": 22
+      },
+      "sourceAsString": "{\"name\":\"zhangsan\",\"age\":22}",
+      "sourceRef": {
+        "fragment": true
+      },
+      "type": "user",
+      "version": -1
+    },
+    {
+      "fields": {},
+      "fragment": false,
+      "highlightFields": {},
+      "id": "5",
+      "matchedQueries": [],
+      "primaryTerm": 0,
+      "rawSortValues": [],
+      "score": 1.0,
+      "seqNo": -2,
+      "sortValues": [],
+      "sourceAsMap": {
+        "name": "chenzhangsan5",
+        "age": 13
+      },
+      "sourceAsString": "{\"name\":\"chenzhangsan5\",\"age\":13}",
+      "sourceRef": {
+        "fragment": true
+      },
+      "type": "user",
+      "version": -1
+    },
+    {
+      "fields": {},
+      "fragment": false,
+      "highlightFields": {},
+      "id": "4",
+      "matchedQueries": [],
+      "primaryTerm": 0,
+      "rawSortValues": [],
+      "score": 1.0,
+      "seqNo": -2,
+      "sortValues": [],
+      "sourceAsMap": {
+        "name": "zhaozhangsan",
+        "age": 11
+      },
+      "sourceAsString": "{\"name\":\"zhaozhangsan\",\"age\":11}",
+      "sourceRef": {
+        "fragment": true
+      },
+      "type": "user",
+      "version": -1
+    },
+    {
+      "fields": {},
+      "fragment": false,
+      "highlightFields": {},
+      "id": "6",
+      "matchedQueries": [],
+      "primaryTerm": 0,
+      "rawSortValues": [],
+      "score": 1.0,
+      "seqNo": -2,
+      "sortValues": [],
+      "sourceAsMap": {
+        "name": "zhangsan5",
+        "age": 12
+      },
+      "sourceAsString": "{\"name\":\"zhangsan5\",\"age\":12}",
+      "sourceRef": {
+        "fragment": true
+      },
+      "type": "user",
+      "version": -1
+    },
+    {
+      "fields": {},
+      "fragment": false,
+      "highlightFields": {},
+      "id": "1",
+      "matchedQueries": [],
+      "primaryTerm": 0,
+      "rawSortValues": [],
+      "score": 1.0,
+      "seqNo": -2,
+      "sortValues": [],
+      "sourceAsMap": {
+        "name": "zhangsan",
+        "age": 20
+      },
+      "sourceAsString": "{\"name\":\"zhangsan\",\"age\":20}",
+      "sourceRef": {
+        "fragment": true
+      },
+      "type": "user",
+      "version": -1
+    }
+  ],
+  "maxScore": 1.0,
+  "totalHits": {
+    "relation": "EQUAL_TO",
+    "value": 5
+  }
+}

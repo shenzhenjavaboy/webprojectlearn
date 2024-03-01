@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77a9f8f4-e3dd-415e-a6f3-56481ad44ba0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/myannotation/AnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/mycollections/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/myio/BufferedReaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/mystring/StringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/stream/MyStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/elastic/ElasticSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/mybigdecimal/BigDecimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/mycollections/CollectionsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/mylambda/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/mystream/StreamDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webprojectlearn" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\m2\repository" />
+        <option name="mavenHome" value="D:/Maven/apache-maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\m2\settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tKuVeiJDFT1K5IKfEYoR2njolC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/mapper" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3137931" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.34560326" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkSpace\webprojectlearn\src\main\resources\static\error" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaWorkSpace\webprojectlearn\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Throws">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaman.webprojectlearn.utils.Main" />
+      <module name="webprojectlearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaman.webprojectlearn.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaman.webprojectlearn.stream.MyStream" />
+      <module name="webprojectlearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaman.webprojectlearn.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaman.webprojectlearn.url.MyUrl" />
+      <module name="webprojectlearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaman.webprojectlearn.url.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaman.webprojectlearn.thread.ThreadPool" />
+      <module name="webprojectlearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaman.webprojectlearn.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Throws" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javaman.webprojectlearn.thread.Throws" />
+      <module name="webprojectlearn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javaman.webprojectlearn.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebprojectlearnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="webprojectlearn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.javaman.webprojectlearn.WebprojectlearnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Throws" />
+        <item itemvalue="Application.ThreadPool" />
+        <item itemvalue="Application.MyUrl" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MyStream" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_ANONYMOUS,SHOW_LAMBDA,SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77a9f8f4-e3dd-415e-a6f3-56481ad44ba0" name="Default Changelist" comment="" />
+      <created>1622530126471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622530126471</updated>
+      <workItem from="1622530129959" duration="9354000" />
+      <workItem from="1622615548885" duration="13067000" />
+      <workItem from="1622681685209" duration="16219000" />
+      <workItem from="1622767841074" duration="9102000" />
+      <workItem from="1622972230212" duration="4768000" />
+      <workItem from="1623026516277" duration="15221000" />
+      <workItem from="1623115944562" duration="14248000" />
+      <workItem from="1623203507089" duration="14354000" />
+      <workItem from="1623286472829" duration="9086000" />
+      <workItem from="1623336079448" duration="1123000" />
+      <workItem from="1623344361947" duration="442000" />
+      <workItem from="1623372065298" duration="389000" />
+      <workItem from="1623376305947" duration="10533000" />
+      <workItem from="1623718094100" duration="5228000" />
+      <workItem from="1623737723561" duration="6458000" />
+      <workItem from="1623804931693" duration="2142000" />
+      <workItem from="1623919772512" duration="865000" />
+      <workItem from="1624179493441" duration="1308000" />
+      <workItem from="1624264389790" duration="3948000" />
+      <workItem from="1624326270987" duration="7466000" />
+      <workItem from="1624410657410" duration="4852000" />
+      <workItem from="1624584769747" duration="1611000" />
+      <workItem from="1624796633860" duration="6652000" />
+      <workItem from="1624961667214" duration="4699000" />
+      <workItem from="1625069688291" duration="294000" />
+      <workItem from="1625190480884" duration="2635000" />
+      <workItem from="1625286275179" duration="798000" />
+      <workItem from="1625371680424" duration="1555000" />
+      <workItem from="1625646886903" duration="1004000" />
+      <workItem from="1625814442163" duration="1375000" />
+      <workItem from="1626141886402" duration="1370000" />
+      <workItem from="1626185730465" duration="1134000" />
+      <workItem from="1626227463057" duration="8943000" />
+      <workItem from="1626318912592" duration="4640000" />
+      <workItem from="1626580619206" duration="523000" />
+      <workItem from="1626741726957" duration="26253000" />
+      <workItem from="1627191406073" duration="1031000" />
+      <workItem from="1627266280280" duration="4834000" />
+      <workItem from="1627614266150" duration="702000" />
+      <workItem from="1628046116357" duration="5092000" />
+      <workItem from="1628394695770" duration="2546000" />
+      <workItem from="1629209846270" duration="1036000" />
+      <workItem from="1629277880970" duration="3018000" />
+      <workItem from="1629420270923" duration="10574000" />
+      <workItem from="1629476250313" duration="21000" />
+      <workItem from="1629523299336" duration="6145000" />
+      <workItem from="1629766221676" duration="11138000" />
+      <workItem from="1630291695197" duration="4864000" />
+      <workItem from="1630980360271" duration="3608000" />
+      <workItem from="1631063846712" duration="6576000" />
+      <workItem from="1631523968732" duration="33000" />
+      <workItem from="1632233107810" duration="579000" />
+      <workItem from="1632278971084" duration="4224000" />
+      <workItem from="1632726239819" duration="1210000" />
+      <workItem from="1632886127677" duration="3252000" />
+      <workItem from="1634107573125" duration="3779000" />
+      <workItem from="1634176667684" duration="8543000" />
+      <workItem from="1634260800702" duration="2371000" />
+      <workItem from="1634959864483" duration="988000" />
+      <workItem from="1635848203914" duration="5688000" />
+      <workItem from="1636362150360" duration="1889000" />
+      <workItem from="1636684925654" duration="1024000" />
+      <workItem from="1636686233014" duration="6769000" />
+      <workItem from="1636873826740" duration="1228000" />
+      <workItem from="1637302841064" duration="3220000" />
+      <workItem from="1637891264836" duration="1040000" />
+      <workItem from="1639380979808" duration="604000" />
+      <workItem from="1640368167683" duration="743000" />
+      <workItem from="1640406640833" duration="4780000" />
+      <workItem from="1640490892527" duration="5392000" />
+      <workItem from="1640503752882" duration="4660000" />
+      <workItem from="1648300704338" duration="1287000" />
+      <workItem from="1653190230475" duration="1060000" />
+      <workItem from="1653708489428" duration="609000" />
+      <workItem from="1659099673009" duration="52000" />
+      <workItem from="1661423422569" duration="988000" />
+      <workItem from="1665492286854" duration="908000" />
+      <workItem from="1670592209255" duration="1156000" />
+      <workItem from="1690604827127" duration="2654000" />
+      <workItem from="1690680570806" duration="2670000" />
+      <workItem from="1690875542465" duration="349000" />
+      <workItem from="1690885520442" duration="5787000" />
+      <workItem from="1691037660311" duration="654000" />
+      <workItem from="1691651472600" duration="1419000" />
+      <workItem from="1692617587693" duration="620000" />
+      <workItem from="1693368836983" duration="6908000" />
+      <workItem from="1693393412558" duration="133000" />
+      <workItem from="1693891849325" duration="705000" />
+      <workItem from="1694065394003" duration="279000" />
+      <workItem from="1694674350853" duration="2068000" />
+      <workItem from="1695624433238" duration="257000" />
+      <workItem from="1701446768955" duration="3998000" />
+      <workItem from="1708616033270" duration="1522000" />
+      <workItem from="1708664855220" duration="2660000" />
+      <workItem from="1708706065755" duration="2844000" />
+      <workItem from="1708950178122" duration="765000" />
+      <workItem from="1709040409501" duration="4838000" />
+      <workItem from="1709215710223" duration="2238000" />
+      <workItem from="1709267155340" duration="192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1708706255687">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1708706255687" />
+    <state x="457" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1701449208832">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="457" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.816@0.0.1536.816" timestamp="1701449208832" />
+    <state x="362" y="4" key="CommitChangelistDialog2" timestamp="1709267449190">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="362" y="4" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1709267449190" />
+    <state x="549" y="150" key="FileChooserDialogImpl" timestamp="1709215760314">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="150" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1709215760314" />
+    <state x="618" y="299" key="Github.ShareDialog" timestamp="1709217518508">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="618" y="299" key="Github.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1709217518508" />
+    <state x="533" y="114" key="Github.UntrackedFilesDialog" timestamp="1709217552450">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="533" y="114" key="Github.UntrackedFilesDialog/0.0.1536.816@0.0.1536.816" timestamp="1709217552450" />
+    <state width="1493" height="301" key="GridCell.Tab.0.bottom" timestamp="1709133880758">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="301" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1709133880758" />
+    <state width="1493" height="301" key="GridCell.Tab.0.center" timestamp="1709133880758">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="301" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1709133880758" />
+    <state width="1493" height="301" key="GridCell.Tab.0.left" timestamp="1709133880758">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="301" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1709133880758" />
+    <state width="1493" height="301" key="GridCell.Tab.0.right" timestamp="1709133880758">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="301" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1709133880758" />
+    <state width="1493" height="226" key="GridCell.Tab.1.bottom" timestamp="1701450804034">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1701450804034" />
+    <state width="1493" height="226" key="GridCell.Tab.1.center" timestamp="1701450804034">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1701450804034" />
+    <state width="1493" height="226" key="GridCell.Tab.1.left" timestamp="1701450804034">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1701450804034" />
+    <state width="1493" height="226" key="GridCell.Tab.1.right" timestamp="1701450804034">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1701450804034" />
+    <state width="1493" height="226" key="GridCell.Tab.2.bottom" timestamp="1701450804034">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.2.bottom/0.0.1536.816@0.0.1536.816" timestamp="1701450804034" />
+    <state width="1493" height="226" key="GridCell.Tab.2.center" timestamp="1701450804034">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.2.center/0.0.1536.816@0.0.1536.816" timestamp="1701450804034" />
+    <state width="1493" height="226" key="GridCell.Tab.2.left" timestamp="1701450804034">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.2.left/0.0.1536.816@0.0.1536.816" timestamp="1701450804034" />
+    <state width="1493" height="226" key="GridCell.Tab.2.right" timestamp="1701450804034">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.2.right/0.0.1536.816@0.0.1536.816" timestamp="1701450804034" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1709267438396">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1709267438396" />
+    <state x="449" y="233" key="com.intellij.ide.util.TipDialog" timestamp="1709267341533">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="449" y="233" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1709267341533" />
+    <state x="419" y="98" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1701448492836">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="419" y="98" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.816@0.0.1536.816" timestamp="1701448492836" />
+    <state x="178" y="110" key="new project wizard" timestamp="1709217599084">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="178" y="110" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1709217599084" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/redis/RedisDemo.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/powermockdemo/MyPowermock.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/mycollections/CollectionsDemo.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/mycollections/CollectionsDemo.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/mycollections/CollectionsDemo.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/mystream/StreamDemo.java</url>
+          <line>58</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/WebprojectlearnApplication.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/extendsdemo/Father.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/strage/PointSendText.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/strage/PointSendText.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/myio/IoDemo.java</url>
+          <line>8</line>
+          <properties class="com.javaman.webprojectlearn.myio.IoDemo" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/mymap/test.java</url>
+          <line>6</line>
+          <properties class="com.javaman.webprojectlearn.mymap.test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/powermockdemo/MyPowermock.java</url>
+          <line>49</line>
+          <properties class="com.javaman.webprojectlearn.powermockdemo.MyPowermock" method="testmock2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/WebprojectlearnApplicationTests.java</url>
+          <line>32</line>
+          <properties class="com.javaman.webprojectlearn.WebprojectlearnApplicationTests" method="contextLoads">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/myio/BufferedReaderTest.java</url>
+          <line>7</line>
+          <properties class="com.javaman.webprojectlearn.myio.BufferedReaderTest" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/mystream/StreamDemo.java</url>
+          <line>52</line>
+          <properties class="com.javaman.webprojectlearn.mystream.StreamDemo" method="fun3">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/javaman/webprojectlearn/excel/MyExcel.java</url>
+          <line>155</line>
+          <properties class="com.javaman.webprojectlearn.excel.MyExcel" method="fun1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/javaman/webprojectlearn/pojo/testList.java</url>
+          <line>10</line>
+          <properties class="com.javaman.webprojectlearn.pojo.testList" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
